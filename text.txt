@@ -1,0 +1,32 @@
+Assessment Overview
+
+The assessment will test your frontend skills in building a cryptocurrency dashboard with the following features :
+
+• Searching for a cryptocurrency by Its Symbol (i.e. BTC is the symbol for bitcoin).
+• Showing a graph with the changes in the currency in the previous months ( monthly time-series ) for 5 different digital currencies [ adding the option to change the time-series to days or minutes is a plus].
+• Showing the currency health index if available [ The health index is provided by the API mentioned in the guidelines section].
+• Exchange between digital currencies ( i.e. From BTC to ETH ).
+• Exchange between digital currencies and physical currencies ( i.e. From BTC to USD ).
+
+Assessment Objectives
+
+• Ability to Integrate the frontend elements with REST APIs.
+• Ability to produce basic dashboard with correct data.
+• Ability to produce a good-looking website by taking into consideration UI/UX guidelines and practices.
+• Measurement of knowledge and experience in Vue.js.
+• Measurement of the Learning Curve and the ability to achieve tasks in a short period of time.
+
+Assessment Guidelines
+
+• Creation of Figma/AdobeXD Design and exporting the assets to design your solution.
+• Vue.js should be used to build the website [ NuxtJS Framework will be a plus ].
+• You can use either use Javascript / Typescript while using Vue.js / NuxtJS [ Typescript will be a plus ].
+• UI should be built using a material UI Kit (i.e. Vuetify ) [ Professional UI Design will be a plus ].
+• Crypto data should be pulled from alphavantage.co REST API ( You can get the free trial API key )
+• You have the flexibility to use any other Crypto API if needed.
+• Dockerizing the website is a plus.
+• Deployment of the website is a plus.
+
+https://github.com/JayeshLab/vue-crypto-dashboard
+
+Note : for the further discussion please ping me on Skype: ankitkr5858@gmail.com
