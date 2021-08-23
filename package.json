@@ -11,6 +11,7 @@
     "docs": "vue-cli-service build --dest docs"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
     "amcharts3": "github:amcharts/amcharts3",
     "amstock3": "^3.21.15",
     "bootstrap": "^4.4.1",
